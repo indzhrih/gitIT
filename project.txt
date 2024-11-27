@@ -6,6 +6,3 @@ new line 2
 another line
 another text
 
-some content
-
-ehehehe gghghgh
